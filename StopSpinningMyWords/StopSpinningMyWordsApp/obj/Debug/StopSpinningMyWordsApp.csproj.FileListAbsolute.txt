@@ -1,0 +1,7 @@
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\bin\Debug\StopSpinningMyWordsApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\bin\Debug\StopSpinningMyWordsApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\bin\Debug\StopSpinningMyWordsApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\obj\Debug\StopSpinningMyWordsApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\obj\Debug\StopSpinningMyWordsApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\obj\Debug\StopSpinningMyWordsApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-StopSpinningmyWords\StopSpinningMyWords\StopSpinningMyWordsApp\obj\Debug\StopSpinningMyWordsApp.pdb
