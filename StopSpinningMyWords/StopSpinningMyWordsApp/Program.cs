@@ -29,5 +29,23 @@ namespace StopSpinningMyWordsApp
 
             return sentence.Trim();
         }
+        public static string SpinWordsII(string sentence) =>sentence
+                   .Split(' ')
+                   .Select(word => word.Length < 5 ? word : word.Reverse().StringJoin())
+                   .StringJoin(" ");
+
+        public static string SpinWordsIII(string sentence)
+        {
+            sentence.Split(' ').ToList().ForEach(word => { if (word.ToCharArray().Length >= 5) sentence = sentence.Replace(word, new String(word.Reverse().ToArray())); });
+            return sentence;
+        }
     }
+    public static class StringJoinExtension
+    {
+        public static string StringJoin(this IEnumerable<string> stringList, string seperator = "") => string.Join(seperator, stringList);
+
+        public static string StringJoin(this IEnumerable<char> stringList, string seperator = "") => string.Join(seperator, stringList);
+    }
+
+
 }
